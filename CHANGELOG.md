@@ -16,3 +16,5 @@
 
 - Optimizations (2024-1-21 9:28:00)
 
+- Config update (2024-2-20 9:31:00)
+
